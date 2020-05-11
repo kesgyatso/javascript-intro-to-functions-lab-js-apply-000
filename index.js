@@ -21,7 +21,7 @@ var lowercase = 'hello'
 
 return 'I can\'t hear you!'
 
- var uppercase = 'HELLO';
+ var uppercase = 'HELLO'
 uppercase.toUpperCase() === uppercase // true
 
 return 'YES INDEED!'
