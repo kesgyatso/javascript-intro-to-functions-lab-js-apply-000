@@ -22,7 +22,7 @@ var lowercase = 'hello'
 return 'I can\'t hear you!'
 
  var uppercase = 'HELLO';
-string.toUpperCase() === uppercase // true
+uppercase.toUpperCase() === uppercase // true
 
 return 'YES INDEED!'
  
@@ -30,6 +30,6 @@ var mixedCase = 'I love you, Grandma.'
 mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
 
-return "I love you, too."
+return 'I love you, too.'
   
 }
