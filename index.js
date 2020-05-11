@@ -20,13 +20,16 @@ var lowercase = 'hello!'
  lowercase.toLowerCase() === lowercase // true
  
 return 'I can\'t hear you!'
+}
+
+function sayHiToGrandma(string){
 
 var lowercasecase = 'hello'
 lowercase.toLowerCaseCase() === lowercase // true
 return 'YES INDEED!'
+}
 
-
-
+function sayHiToGrandma(string){
 var mixedCase = 'I love you, Grandma.'
 mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
