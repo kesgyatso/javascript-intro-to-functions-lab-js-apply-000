@@ -22,8 +22,8 @@ var lowercase = 'hello!'
 return 'I can\'t hear you!'
 
 
-var lowercasecase = 'hello'
-lowercase.toLowerCaseCase() === string // true
+var lowercasecase = 'HELLO'
+uppercase.toUpperCase() === string // true
 return 'YES INDEED!'
 
 
