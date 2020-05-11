@@ -22,7 +22,7 @@ var lowercase = 'hello'
 return 'I can\'t hear you!'
 
  var uppercase = 'HELLO';
-string.toUpperCase(string) === uppercase // true
+string.toUpperCase() === uppercase // true
 
 return 'YES INDEED!'
  
