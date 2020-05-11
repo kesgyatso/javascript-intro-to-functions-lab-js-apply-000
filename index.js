@@ -16,14 +16,15 @@ console.log("hello"); string.toLowerCase
 
 function sayHiToGrandma(string){
 
-var lowercase = string
+var lowercase = 
+'hello!'
  lowercase.toLowerCase() === lowercase // true
 
 return 'I can\'t hear you!'
 }
 
 function sayHiToGrandma(string){
- var uppercase = 'HELLO'
+ var uppercase = 'HELLO!'
 uppercase.toUpperCase() === uppercase // true
 
 return 'YES INDEED!'
